@@ -1,29 +1,29 @@
-# Hello World
+# Overview
 
-## Overview
+As I continue developing my skills as a software engineer, I am building a portfolio of software projects to strengthen my understanding of programming concepts, development tools, and version control. This project serves as the starting point of that portfolio by verifying that my development environment is correctly configured and that I can successfully create, run, and publish a Python application using Git and GitHub.
 
-This project is my first software portfolio assignment for CSE 310: Applied Programming at BYU-Idaho.
+This software is a simple Python program that prints "Hello World" to the terminal.
 
-The purpose of this software is to verify that my development environment is correctly configured, demonstrate the use of Git and GitHub, and create a simple Hello World program in Python.
+The purpose of creating this software is to practice the complete software development workflow, including writing code, using Git for version control, publishing code to GitHub, and documenting the project with a README file.
 
-## Software Demo Video
+**Software Demo Video:**  
+[Software Demo Video](http://youtube.link.goes.here)
 
+# Development Environment
 
-## Development Environment
+## Tools Used
+
 - Visual Studio Code
 - Python 3
 - Git
 - GitHub
 
 ## Programming Language
+
 - Python
 
-## Useful Websites
-- https://www.python.org/
-- https://docs.github.com/
-- https://code.visualstudio.com/docs
+# Useful Websites
 
-## Future Work
-- Learn more Git commands and workflows.
-- Build more advanced Python applications.
-- Explore additional programming languages during CSE 310.
+- [Python Documentation](https://docs.python.org/3/)
+- [GitHub Docs](https://docs.github.com/)
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
